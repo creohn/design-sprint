@@ -14,3 +14,18 @@ Each sprint should be tailored to the individual project.
 * [Prototype Phase](4-Prototype)
 * [Test Phase](5-Test)
 
+
+
+
+## Contributing
+
+If you have new ideas that push this repository & design sprints forward, please
+feel free to review it. [Contributing guidelines](CONTRIBUTING.md).
+
+## Credits
+
+[creohn](https://creohn.de)
+
+This repo is maintained by creohn.
+If you have questions or suggestions please open an
+[issue](https://github.com/creohn/design-sprint/issues).
